@@ -4,14 +4,14 @@ const CONFIG = {
     Mà sao chị cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    btnIntro: 'Nhấn vào đây nè chị',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích chị thôi <33',
-    btnNo: 'Không, Chị Thủy à :3',
+    btnYes: 'Nhấn vào đây để nhận câu hỏi khó',
+    btnNo: 'Nhấn vào đây để nhận câu hỏi dễ',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại thích mỗi chị thôi <3',
-    btnReply: 'Gửi cho chị <3',
-    reply: 'No',
-    mess: 'Em biết mà 🥰. Nhưng em vẫn thích chị nhiều nhiều 😘😘',
+    btnReply: 'Nhấn vào đây để hoàn thành câu trả lời',
+    reply: 'Em dễ thương lắm đó Khoa',
+    mess: 'Em biết mà 🥰. Em thích chị nhiều nhiều 😘😘',
     messLink: 'https://www.facebook.com/le.khoa.3386/'
 }
