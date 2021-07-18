@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Nhấn vào đây để nhận câu hỏi dễ',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại thích mỗi chị thôi <3',
     btnReply: 'Nhấn vào đây để hoàn thành câu trả lời',
-    reply: 'Em dễ thương lắm đó Khoa',
+    reply: 'Yes',
     mess: 'Em biết mà 🥰. Em thích chị nhiều nhiều 😘😘',
     messLink: 'https://www.facebook.com/le.khoa.3386/'
 }
